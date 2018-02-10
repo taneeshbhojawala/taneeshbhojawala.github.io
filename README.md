@@ -11,4 +11,6 @@ We will have a *lot of fun* doing these project.
 This is the **arduino uno**.
 We will use this arduino and make the projects
 ![3d printer](http://3dprintingindustry.com/wp-content/uploads/2014/08/teebotmax-3d-printer.jpg)
-I will help you make ***3d printers***.
+I will even help you make ***3d printers***.
+For **3d printers**, you will need arduino mega.Here it is:
+![arduino mega](http://www.hobbytronics.co.uk/image/data/arduino/arduino-mega-1280.jpg)
