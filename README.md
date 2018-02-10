@@ -8,7 +8,7 @@ We will have a *lot of fun* doing these project.
 I will also teach you how to make a circuit on a breadboard and then making the circuit on **PCB**.
 I will also teach you to make circuits on a circuit making software **EAGLE**.
 Well, to make a circuit on ***PCB*** we need to do soldering. If you don't know to solder components, I will teach you that too.
-Common, lets start!!!!! :infinite:
+Common, lets start!!!!!
 
 
 
