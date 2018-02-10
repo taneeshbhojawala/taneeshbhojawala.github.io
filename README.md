@@ -18,9 +18,15 @@ I will even help you make ***3d printers***.We can build such types of printers.
 ![3d printer](https://cdn.arstechnica.net/wp-content/uploads/2014/09/Materia-101_7-640x426.jpg)
 
 
+Well, so what are 3d printers?
 
-For **3d printers**, you will need arduino mega.Here it is:
+So a 3d printer ia printer which prints 3d objects with a plastic called filament.
+It prints the objects layer by layer.
+If you have a 3d printer, I would recommend you to use **Rihnoceros 3d moddeling software**.
+For converting the model in layers and set the settings, I would recommend you to use **Cura**.
+
+Well,for making **3d printers** at home without any costly kit, you will need arduino mega and some more components.This is the ***Arduino mega***.
 
 ![arduino mega](http://www.hobbytronics.co.uk/image/data/arduino/arduino-mega-1280.jpg)
 
-I will surly post a vedio on youtube to show how to make a*3d printer*.
+I will surly post a vedio on youtube to show how to make a *3d printer*.
