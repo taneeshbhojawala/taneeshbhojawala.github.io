@@ -10,5 +10,5 @@ We will have a *lot of fun* doing these project.
 ![arduino uno](https://images-na.ssl-images-amazon.com/images/I/81A621O1eoL._SX466_.jpg)
 This is the **arduino uno**.
 We will use this arduino and make the projects
-I will help you make ***3d printers***.
 ![3d printer](http://3dprintingindustry.com/wp-content/uploads/2014/08/teebotmax-3d-printer.jpg)
+I will help you make ***3d printers***.
