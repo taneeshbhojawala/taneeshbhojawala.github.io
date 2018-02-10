@@ -1,17 +1,23 @@
 # taneeshbhojawala.github.io
+# arduino projects
 Thank you for visiting my website.Please share this website with your friends.
 You can be in contact with me at **taneeshbhojawala@gmail**.
 This is a website for my **Electronics** projects and programms for **Arduino**.
-We are going to make robots using **Arduino**
+We are going to make ***robots*** using **Arduino**
 We will have a *lot of fun* doing these project.
+I will also teach you how to make a circuit on a breadboard and then making the circuit on **PCB**.
+I will also teach you to make circuits on a circuit making software **EAGLE**.
+Well, to make a circuit on ***PCB*** we need to do soldering. If you don't know to solder components, I will teach you that too!!!
+Common, lets start!!!!!
 
 
 
 ![arduino uno](https://images-na.ssl-images-amazon.com/images/I/81A621O1eoL._SX466_.jpg)
 
 
+**WHAT IS THIS ?**
 This is the **arduino uno**.
-We will use this arduino and make the projects
+We will use this arduino and make the projects.
 I will even help you make ***3d printers***.We can build such types of printers.
 
 
