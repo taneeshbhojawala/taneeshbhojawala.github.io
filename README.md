@@ -8,10 +8,17 @@ We will have a *lot of fun* doing these project.
 
 
 ![arduino uno](https://images-na.ssl-images-amazon.com/images/I/81A621O1eoL._SX466_.jpg)
+
+
 This is the **arduino uno**.
 We will use this arduino and make the projects
 I will even help you make ***3d printers***.We can build such types of printers.
+
+
 ![3d printer](https://cdn.arstechnica.net/wp-content/uploads/2014/09/Materia-101_7-640x426.jpg)
+
+
+
 For **3d printers**, you will need arduino mega.Here it is:
 
 ![arduino mega](http://www.hobbytronics.co.uk/image/data/arduino/arduino-mega-1280.jpg)
