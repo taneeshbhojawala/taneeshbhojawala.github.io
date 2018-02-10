@@ -1,5 +1,5 @@
 # taneeshbhojawala.github.io
-# arduino projects
+
 Thank you for visiting my website.Please share this website with your friends.
 You can be in contact with me at **taneeshbhojawala@gmail**.
 This is a website for my **Electronics** projects and programms for **Arduino**.
