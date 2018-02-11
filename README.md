@@ -3,9 +3,11 @@
 Thank you for visiting my website.Please share this website with your friends.
 You can be in contact with me at **taneeshbhojawala@gmail**.
 This is a website for my **Electronics** projects and programms for **Arduino**.
-We are going to make ***robots*** using **Arduino**
+We are going to make ***robots*** using **Arduino**.
+we will also do circuiting without using *Arduino*.
 We will have a *lot of fun* doing these project.
-I will also teach you how to make a circuit on a breadboard and then making the circuit on **PCB**.
+
+I will teach you how to make a circuit on a breadboard and then making the circuit on **PCB**.
 I will also teach you to make circuits on a circuit making software **EAGLE**.
 Well, to make a circuit on ***PCB*** we need to do soldering. If you don't know to solder components, I will teach you that too.
 Common, lets start!!!!!
@@ -33,7 +35,7 @@ I will even help you make ***3d printers***.We can build such types of printers.
 
 Well, so what are 3d printers?
 
-So a 3d printer ia printer which prints 3d objects with a plastic called filament.
+So a 3d printer is a printer which prints 3d objects with a plastic called filament.
 It prints the objects layer by layer.
 If you have a 3d printer, I would recommend you to use **Rihnoceros 3d moddeling software**.
 For converting the model in layers and set the settings, I would recommend you to use **Cura**.
