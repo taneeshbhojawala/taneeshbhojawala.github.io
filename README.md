@@ -3,7 +3,6 @@
 
 Thank you for visiting my website.Please share this website with your friends.
 You can be in contact with me at **taneeshbhojawala@gmail**.
-Click on the link to send me emails : [link to GMAIL!](https://mail.google.com/mail/u/0/#inbox?compose=16182e71ac06c844)
 This is a website for my **Electronics** projects and programms for **Arduino**.
 We are going to make ***robots*** using **Arduino**.
 We will also do circuiting without using *Arduino*.
