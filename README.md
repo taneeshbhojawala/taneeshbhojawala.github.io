@@ -28,7 +28,7 @@ I will even help you make ***3d printers***.We can build such types of printers.
 ![3d printer](https://cdn.arstechnica.net/wp-content/uploads/2014/09/Materia-101_7-640x426.jpg)
 
 
-# ARDUINO PROJECTS
+# PROJECTS
   1. **3d printers**
 
 
@@ -45,3 +45,4 @@ Well,for making **3d printers** at home without any costly kit, you will need ar
 ![arduino mega](http://www.hobbytronics.co.uk/image/data/arduino/arduino-mega-1280.jpg)
 
 I will surly post a vedio on youtube to show how to make a *3d printer*.
+But before we start to make a 3d printer,we will do some simple projects using **arduino** and simple circuiting on ***PCB***.
