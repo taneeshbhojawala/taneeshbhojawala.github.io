@@ -4,7 +4,7 @@ Thank you for visiting my website.Please share this website with your friends.
 You can be in contact with me at **taneeshbhojawala@gmail**.
 This is a website for my **Electronics** projects and programms for **Arduino**.
 We are going to make ***robots*** using **Arduino**.
-we will also do circuiting without using *Arduino*.
+We will also do circuiting without using *Arduino*.
 We will have a *lot of fun* doing these project.
 
 I will teach you how to make a circuit on a breadboard and then making the circuit on **PCB**.
