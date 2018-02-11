@@ -50,4 +50,4 @@ Well,for making **3d printers** at home without any costly kit, you will need ar
 
 I will surly post a vedio on youtube to show how to make a *3d printer*.
 But before we start to make a 3d printer,we will do some simple projects using **arduino** and simple circuiting on ***PCB***.
-![picture](https://drive.google.com/drive/folders/1DM--0nsK_w5FtNdxuZGwkMfDoVbocNdC)
+
