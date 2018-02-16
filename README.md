@@ -49,5 +49,9 @@ Well,for making **3d printers** at home without any costly kit, you will need ar
 ![arduino mega](http://www.hobbytronics.co.uk/image/data/arduino/arduino-mega-1280.jpg)
 
 I will surly post a vedio on youtube to show how to make a *3d printer*.
+This vedio series(not my vedios) shows us a nice way of making 3d printers without lcd display
+here they are [part 1](https://www.youtube.com/watch?v=63Ei-H2gQ48)
+              [part 2](https://www.youtube.com/watch?v=H_sGcUn7vVM)
+              [part 3](https://www.youtube.com/watch?v=BTUVGvbJbc8&t=637s)
 But before we start to make a 3d printer,we will do some simple projects using **arduino** and simple circuiting on ***PCB***.
 
